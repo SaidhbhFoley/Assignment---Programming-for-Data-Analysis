@@ -25,5 +25,5 @@ The five distributions I choose to look into where:
 4. poisson
 5. uniform
 
-### Seeds in Generating Pseudorandom Numbers
+### 4. Seeds in Generating Pseudorandom Numbers
 I briefly covered the basics of seeds in generating pseudorandom numbers and the importance of seeds.
